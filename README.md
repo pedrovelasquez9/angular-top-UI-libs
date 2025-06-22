@@ -29,7 +29,7 @@ This ranking is based on the feedback from the **[Programación en Español](htt
 
 ## 💬 Want to contribute?
 
-If you have a favorite UI library or you'd like to suggest a new entry, feel free to comment on our videos or [open a pull request](https://github.com/) in this repo with your proposal.
+If you have a favorite UI library or you'd like to suggest a new entry, feel free to comment on our videos or [open a pull request](https://github.com/pedrovelasquez9/angular-top-UI-libs) in this repo with your proposal.
 
 ---
 
